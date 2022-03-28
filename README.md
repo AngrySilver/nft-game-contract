@@ -1,10 +1,10 @@
-# NFT Contracts For Party Beavers
+# NFT Contracts For LOXAR
 
 ## Tech Stack
 
 - OpenZeppelin
 - Truffle / Ganache / Rinkeby for Testing
-- ERC721
+- ERC721 / ERC20
 
 ## Minting 
 
